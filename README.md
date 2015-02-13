@@ -1,2 +1,2 @@
 # YARN
-A perl module for YARN
+A perl module for Apache Hadoop YARN ResourceManager
